@@ -1,0 +1,18 @@
+
+h
+java:S1192d"KDefine a constant instead of duplicating this literal "category: " 3 times.(§®İÍ8ƒÉÏ¹È1
+]	java:S125"<This block of commented-out lines of code should be removed.(óôÓ³ùÿÿÿÿ8¡ÉÏ¹È1
+W	java:S125"<This block of commented-out lines of code should be removed.(ƒê8¡ÉÏ¹È1
+X	java:S125("<This block of commented-out lines of code should be removed.(™´¼û8¡ÉÏ¹È1
+L	java:S1064"+Replace this use of System.out by a logger.(ÚÇ£îşÿÿÿÿ8¡ÉÏ¹È1
+E
+java:S4274C"(Replace this assert with a proper check.(·ğÚ8¢ÉÏ¹È1
+]	java:S125>"<This block of commented-out lines of code should be removed.(Ùƒ§àüÿÿÿÿ8¢ÉÏ¹È1
+L	java:S106P"+Replace this use of System.out by a logger.(Å¡±”ûÿÿÿÿ8¤ÉÏ¹È1
+G	java:S106d"+Replace this use of System.out by a logger.(§®İÍ8¦ÉÏ¹È1
+L	java:S106f"+Replace this use of System.out by a logger.(ÇÂ­ıÿÿÿÿ8¦ÉÏ¹È1
+L	java:S106h"+Replace this use of System.out by a logger.(Æ¾Åƒûÿÿÿÿ8¦ÉÏ¹È1
+X	java:S125q"<This block of commented-out lines of code should be removed.(“Çú¡8§ÉÏ¹È1
+Y	java:S125’"<This block of commented-out lines of code should be removed.(åÇñ8©ÉÏ¹È1
+M
+java:S5960t"+Remove this assertion from production code.(í³õÊÿÿÿÿÿ8­ÉÏ¹È1
