@@ -1,9 +1,0 @@
-
-{
-java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "product".(’İµV8€ã—ÛÈ1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“ÃÑ·8ã—ÛÈ1
-l
-java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(’İµV8‰ã—ÛÈ1
-j	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºêªñ8Ò¹ÛÈ1
-M
-java:S5960#"+Remove this assertion from production code.(èæ©üüÿÿÿÿ8ã—ÛÈ1
